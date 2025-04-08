@@ -1,0 +1,9 @@
+streamlit
+transformers
+beautifulsoup4
+feedparser
+langchain
+faiss-cpu
+sentence-transformers
+unstructured
+python-dotenv
